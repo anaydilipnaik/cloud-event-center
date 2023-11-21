@@ -1,0 +1,8 @@
+{
+  "short_name": "Cloud Event Center",
+  "name": "Cloud Event Center",
+  "start_url": "/login",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
